@@ -37,6 +37,9 @@ model-viewer {
   align-items: flex-end;
   
 }
+.attributiontwo {
+height: 60px;
+}
 
 .attribution {
   color: #000000;
